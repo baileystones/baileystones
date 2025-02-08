@@ -11,4 +11,4 @@ I'm Bailey Stones, a student at Brigham Young University-Idaho interested in sof
 
 ## Let's Connect!
 
-- Here is my ([LinkedIn](https://www.linkedin.com/in/bailey-stones/)) profile
+- Here is my LinkedIn profile ([LinkedIn](https://www.linkedin.com/in/bailey-stones/)) 
