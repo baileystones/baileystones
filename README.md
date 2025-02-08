@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bailey Stones
 
-<!--
-**baileystones/baileystones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Bailey Stones, a student at Brigham Young University-Idaho interested in software engineering. I discovered my interest in coding through an elective class here at BYU-I, which led me to make the switch and fully immerse myself in the field. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+- Proficient in: Excel, Python, C#, HTML, CSS
+- Skills: strong work ethic, attention to detail, open to growth and learning
+
+## Let's Connect!
+
+- Here is my ([LinkedIn](https://www.linkedin.com/in/bailey-stones/)) profile
