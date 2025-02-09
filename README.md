@@ -6,7 +6,7 @@ I'm Bailey Stones, a student at Brigham Young University-Idaho interested in sof
 
 ## Technologies and Tools
 
-- Proficient in: Excel, Python, C#, HTML, CSS
+- Proficient in: Excel, Python, C#, SQL, HTML, CSS
 - Skills: strong work ethic, attention to detail, open to growth and learning
 
 ## Let's Connect!
